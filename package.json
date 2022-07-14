@@ -46,11 +46,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/1981430140/eggjs-nacos"
+    "url": "git+https://github.com/aiolosjs/egg-nacos"
   },
   "bugs": {
-    "url": "https://github.com/1981430140/eggjs-nacos/issues"
+    "url": "https://github.com/aiolosjs/egg-nacos/issues"
   },
-  "homepage": "https://github.com/1981430140/eggjs-nacos#readme",
+  "homepage": "https://github.com/aiolosjs/egg-nacos#readme",
   "license": "ISC"
 }
